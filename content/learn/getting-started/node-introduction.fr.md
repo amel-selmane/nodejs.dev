@@ -16,7 +16,7 @@ Lorsque Node.js effectue une opération d'E/S, comme la lecture du réseau, l'ac
 
 Cela permet à Node.js de gérer des milliers de connexions simultanées avec un seul serveur sans avoir à gérer la concurrence entre les threads, ce qui pourrait être une source importante de bogues.
 
-Node.js a un avantage unique car des millions de développeurs frontaux qui écrivent du JavaScript pour le navigateur sont maintenant capables d'écrire le code côté serveur en plus du code côté client sans avoir à apprendre un langage complètement différent.
+Node.js a un avantage unique car des millions de développeurs front qui écrivent du JavaScript pour le navigateur sont maintenant capables d'écrire le code côté serveur en plus du code côté client sans avoir à apprendre un langage complètement différent.
 
 Dans Node.js, les nouvelles normes ECMAScript peuvent être utilisées sans problème, car vous n'avez pas besoin d'attendre que tous vos utilisateurs mettent à jour leurs navigateurs - vous êtes en charge de décider quelle version ECMAScript utiliser en changeant la version de Node.js, et vous pouvez également activer des fonctionnalités expérimentales spécifiques en exécutant Node.js avec des drapeaux.
 
